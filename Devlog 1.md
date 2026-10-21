@@ -10,3 +10,4 @@ Most parts of this robot contrast Cataclysm, since i wanted to make something co
 
 ## Designing The Weapon
 
+I began with designing the weapon blade on Fusion, and unfortunately forgot to track it. With lots of help from a friend, who thouroughly explained exactly how to design a perfect weapon blade using his helpful diagrams, which ive attached below!
