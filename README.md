@@ -26,3 +26,14 @@ A 75mm diameter, single toothed weapon blade spinning at 25,000 RPM mounted betw
 
 A sturdy top plate that provides a cover for the main chassis and a firm support for the weapon.
 
+### - Wheels
+
+Small N20 compatible wheels utilising O rings for extra grip.
+
+## Wiring Diagram 
+
+<img width="820" height="505" alt="image" src="https://github.com/user-attachments/assets/986d4c03-5ba7-4a02-b06b-e5a40fbf59f6" />
+
+
+
+
