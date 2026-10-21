@@ -34,6 +34,14 @@ Small N20 compatible wheels utilising O rings for extra grip.
 
 <img width="820" height="505" alt="image" src="https://github.com/user-attachments/assets/986d4c03-5ba7-4a02-b06b-e5a40fbf59f6" />
 
+## BOM 
+
+
+## Onshape CAD Link
+
+https://cad.onshape.com/documents/9d89cf8ad0661f3024f0d321/w/775cdee9fd069ef4813bc92f/e/cc77b7adefb6d81f7e92a30e?renderMode=0&uiState=6ad80f41d79b6117422f9bc1
+
+
 
 
 
