@@ -32,6 +32,8 @@ If i have weight left from my 150g limit, i will be adding bristles to the back 
 
 Thank you for reading this devlog, it was pretty long, and i hope you enjoyed! I will be building this bot as soon as i get funding!
 
+**Total time spent: 9hrs 21m**
+
 
 # 22nd October: Log 2
 
@@ -46,3 +48,5 @@ A slot for the screw switch was also added, so i can turn the bot on and off fro
 ## Thanks it!
 
 Pretty short Devlog, but thank you for reading! Hope you're as excited for this build as i am!
+
+**Total time spent: 3hrs 48m**
