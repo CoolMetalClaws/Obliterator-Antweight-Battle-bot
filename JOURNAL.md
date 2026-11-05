@@ -3,7 +3,7 @@ title: "Obliterator Antweight BattleBot"
 github: "Obliterator-Antweight-Battle-Bot"
 description: "My second combat robot with a 25,000 RPM weapon blade and an aggressive front"
 created_at: "2026-10-18"
-total_time: "13h"
+total_time: "13hrs 9mins"
 ---
 
 # 20th October: Log 1
