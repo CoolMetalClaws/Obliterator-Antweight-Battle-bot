@@ -34,6 +34,7 @@ Thank you for reading this devlog, it was pretty long, and i hope you enjoyed! I
 
 **Total time spent: 9hrs 21m**
 
+![Img]( https://cdn.hackclub.com/01a1b56a-a600-7031-b053-91edc81ffc0a/Screenshot%202026-10-13%20171938.png)
 
 # 22nd October: Log 2
 
@@ -50,3 +51,5 @@ A slot for the screw switch was also added, so i can turn the bot on and off fro
 Pretty short Devlog, but thank you for reading! Hope you're as excited for this build as i am!
 
 **Total time spent: 3hrs 48m**
+
+![Img](https://cdn.hackclub.com/01a1b56a-a9c5-7421-9bf7-ba1a1b6492cf/Screenshot%202026-10-22%20222413.png)
