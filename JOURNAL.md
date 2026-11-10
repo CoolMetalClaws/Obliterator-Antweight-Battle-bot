@@ -3,10 +3,11 @@ title: "Obliterator Antweight BattleBot"
 github: "Obliterator-Antweight-Battle-Bot"
 description: "My second combat robot with a 25,000 RPM weapon blade and an aggressive front"
 created_at: "2026-10-18"
-total_time: "13hrs 9mins"
+total_time: "13h 30m"
 ---
 
-# 20th October: Log 1
+# November 5, 2026: First Devlog!
+<!-- fabricate:entry 2186 -->
 
 ## New Project
 
@@ -32,11 +33,15 @@ If i have weight left from my 150g limit, i will be adding bristles to the back 
 
 Thank you for reading this devlog, it was pretty long, and i hope you enjoyed! I will be building this bot as soon as i get funding!
 
-**Total time spent: 9hrs 21m**
+![](https://fabricate.hackclub-assets.com/d9091b99260dfd24d6a186847c37e532633f34ee1ddcf5850caa7fb143c60508/image-png/Screenshot%202026-10-13%20171901.png)
+![](https://fabricate.hackclub-assets.com/f9a7a130a52f3697b68a77d9d517299b5f1b2d0273b9d6913021beb2a6968dcc/image-png/Screenshot%202026-10-13%20171938.png)
+![](https://fabricate.hackclub-assets.com/73346b1f1ee54a71391e790382b1bcde469d230fce9eedf49c8e2fc322018991/image-webp/image.webp)
+![](https://fabricate.hackclub-assets.com/b7e91c5e6fcc3b5769587057d3c89f634331644d33bb3ed6ad3d63668e48e6f6/image-png/Screenshot%202026-10-15%20180445.png)
 
-![Img]( https://cdn.hackclub.com/01a1b56a-a600-7031-b053-91edc81ffc0a/Screenshot%202026-10-13%20171938.png)
+**Total time spent: 9h 24m**
 
-# 22nd October: Log 2
+# November 7, 2026: Bristless!
+<!-- fabricate:entry 2320 -->
 
 ## Bristless!!
 
@@ -50,6 +55,27 @@ A slot for the screw switch was also added, so i can turn the bot on and off fro
 
 Pretty short Devlog, but thank you for reading! Hope you're as excited for this build as i am!
 
-**Total time spent: 3hrs 48m**
+![](https://fabricate.hackclub-assets.com/9bbf9cc583f16b2957b258ad9f5cf2f24af2dc3d15d2091f51711bc1321cd17e/image-png/Screenshot%202026-10-15%20180516.png)
+![](https://fabricate.hackclub-assets.com/3120a56f90f0de4389283f0218d68952782a529afcd69e1deb2ad36f73533674/image-png/Screenshot%202026-10-22%20222413.png)
+![](https://fabricate.hackclub-assets.com/63304ded35d5cbe7fa8cfb756e75fa7eaf057f67f98d0f9e0a96fdddb7151480/image-png/Screenshot%202026-10-22%20222436.png)
 
-![Img](https://cdn.hackclub.com/01a1b56a-a9c5-7421-9bf7-ba1a1b6492cf/Screenshot%202026-10-22%20222413.png)
+**Total time spent: 3h 42m**
+
+# November 10, 2026: Edited BOM and Included electronics dividers
+<!-- fabricate:entry 2543 -->
+
+## Electronics
+all electronics in my bot will have a slot to be placed in, and most likely hot glued in place. The drivw motors will also be screwed in using the front plate.
+
+## BOM
+i reduced overall costs by eliminating some spare components, so hopefully i dont break any electronics in the fights, since i have no back up...
+
+Hopefully $220 is a bit more reasonable, and is within the tier limit for a comat robot. Hopefully it gets approved this time! I am super excited to build it!
+
+## Thank you!
+Thanks for reading, even if it is a pretty short entry! hope youre as excited to see Obliterator as i am!
+
+![](https://fabricate.hackclub-assets.com/c1727b20fec898ed4fd8a1ee7250d45eb26052fa3e72d0821983d0070f126723/image-png/Screenshot%202026-11-10%20192607.png)
+
+**Total time spent: 24m**
+
